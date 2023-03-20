@@ -2,7 +2,7 @@
 
 
 ### Hi there  👋
-- 🙋‍♂️ I'm Rodrigo, but you can call me Rodrigo
+- 🙋‍♂️ I'm Rodrigo Gomes Costa
 - 🇧🇷 Brazilian
 - 🎓 Full-Stack Developer by Driven Education
 
