@@ -1,5 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=whitewhite)](https://www.linkedin.com/in/rodrigo-costa-645893244/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white&link/)](https://instagram.com/costardgg?igshid=YmMyMTA2M2Y=)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=whitewhite)](https://www.linkedin.com/in/rodrigo-costa-645893244/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white&link/)](https://instagram.com/costardgg?igshid=YmMyMTA2M2Y=)
 
 
 ### Hi there  👋
